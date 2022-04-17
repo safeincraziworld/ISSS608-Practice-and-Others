@@ -1,5 +1,6 @@
 name: "ISSS608 Practice and Others"
 title: "My Practice Website"
+theme: my_theme.css
 description: |
   My Practice Website
 output_dir: "_site"

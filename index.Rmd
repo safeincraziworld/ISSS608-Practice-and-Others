@@ -1,7 +1,13 @@
 ---
-title: "My Practice Website"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Leslie's Home"
+image: "beier.png"
+links:
+  - label: LinkedIn
+    url: 'https://www.linkedin.com/in/leslielongnu/'
+  - label: GitHub
+    url: 'https://github.com/safeincraziworld/'
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
